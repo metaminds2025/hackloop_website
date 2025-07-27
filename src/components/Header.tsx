@@ -70,7 +70,7 @@ const Header: React.FC<HeaderProps> = ({ theme, onThemeToggle }) => {
           <div className="flex items-center space-x-3 sm:space-x-4">
             {/* Registration Button */}
             <a
-              href="https://unstop.com/o/KOUJ5pV?lb=53gZa87j&utm_medium=Share&utm_source=shortUrl"
+              href="https://unstop.com/m/opportunity/1528453/step3"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:inline-flex items-center px-4 py-2 bg-gradient-to-r from-primary to-accent text-white font-bold rounded-full hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-primary/50 text-sm"
